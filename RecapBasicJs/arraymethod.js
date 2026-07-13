@@ -10,3 +10,4 @@ const products = [
 
 const items = products.filter(prod => prod.price >= 1000);
 console.log(items);
+
