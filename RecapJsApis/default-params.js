@@ -5,3 +5,9 @@ function sum(num1, num2) {
 }
 
 sum(10, 20); // arguments
+
+function FullName(first, last = '1') {
+    const name = first + '' + last;
+    console.log(name);
+}
+FullName('AmitSarkar');
