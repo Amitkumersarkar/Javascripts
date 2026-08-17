@@ -7,4 +7,4 @@ console.log(firstElement([29, 65, 47]))
 const getSquare = (x) => x * x;
 console.log(getSquare(8));
 
-document.getElementById('btn-click').addEventListener('click', e = {})
+// document.getElementById('btn-click').addEventListener('click', e = {})
