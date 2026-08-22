@@ -4,7 +4,7 @@ function sum(num1, num2) {
     console.log(num1, num2, total);
 }
 
-sum(10, 20); // arguments
+sum(10, 20); // arguments passing
 
 function FullName(first, last = '1') {
     const name = first + '' + last;
